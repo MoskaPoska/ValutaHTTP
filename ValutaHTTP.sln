@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValutaHTTP", "ValutaHTTP\ValutaHTTP.csproj", "{E74CDE73-7CB5-4674-894F-EBFC3B75C686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74CDE73-7CB5-4674-894F-EBFC3B75C686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74CDE73-7CB5-4674-894F-EBFC3B75C686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74CDE73-7CB5-4674-894F-EBFC3B75C686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74CDE73-7CB5-4674-894F-EBFC3B75C686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A81379D-FD1D-47A6-B549-4EBD6F789200}
+	EndGlobalSection
+EndGlobal
